@@ -14,6 +14,19 @@ includes pre-set cooking times and settings based on heating intensity, temperat
 * LCD
 * Buzzer
 * Hall Effect Sensor
+# Requirements
+## High level requirements
+| Id | Description | Category | 
+|----|-------------|---------|
+|HL1|Instruction for cooking|Technical|
+|HL2|Automatically off cooker after particular buzzer | Technical|
+|HL3|Controlling the duration of cooking and scheduling the cooking hour |Technical|
 
+## Low level Requirements
+| Id | Description | Category |
+|----|-------------|---------|
+|LL1|Keypad inputs which include duration,temperature|Technical|
+|LL2|Motor is given input from sensor after the duration|Technical|
+|LL2|Input is taken from user at what time the cooking should start|Technical|
 
 
