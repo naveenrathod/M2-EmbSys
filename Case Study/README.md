@@ -36,6 +36,14 @@ includes pre-set cooking times and settings based on heating intensity, temperat
 * The machine is capable of washing, rinsing and dry-spinning clothes. The intelligence of the machine was based on microcontroller. This provides the sequence of instructions that controls the machine from start to finish according to the washing mode selected.
 ## Block Diagram
 
+## Components used
+* Power supply
+* Micro controller
+* Keypad
+* Water level sensor
+* Buzzer
+* Motor
+* Led Indicator
 ## Requirements
 ## High level requirements 
 | Id | Description | Category | 
