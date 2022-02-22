@@ -59,7 +59,7 @@ includes pre-set cooking times and settings based on heating intensity, temperat
 |LL1|Keypad inputs which include numner of cycles|Technical|
 |LL2|Motor is given input from sensor after the completion|Technical|
 |LL3|Sensor inputs are given to controller|Technical|
-|LL4|Disposal of waster after a cycle|Technical|
+|LL4|Disposal of waste after a cycle|Technical|
 
 
 
