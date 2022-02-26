@@ -12,6 +12,3 @@
 
 # Flowchart
 ![Flowchart_Fan drawio (1)](https://user-images.githubusercontent.com/46956641/155835305-f2a41af7-180e-4d82-ae6d-13c826250ff6.png)
->>>>>>> c35be0db8fb0165ef1986a713b78456beb43940c
-
-##
