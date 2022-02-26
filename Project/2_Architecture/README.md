@@ -21,6 +21,8 @@
 * The Temperature Sensor LM35 series are precision integrated-circuit temperature devices with an output voltage linearly proportional to the Centigrade temperature.
 ## Hall effect sensor
 * Hall Effect Sensor (A3144) to Measure Rotations from a Fan.A tachometer is a useful tool for calculating the rotational motion of a part. Tachometers read out revolutions per minute (RPM), which tells the user how often a rotating part completes one full rotation
-
+## LCD Display
+* The term LCD stands for liquid crystal display. It is one kind of electronic display module used in an extensive range of applications like various circuits & devices like mobile phones, calculators, computers, TV sets, etc. These displays are mainly preferred for multi-segment light-emitting diodes and seven segments. 
+* A 16×2 LCD has two registers like data register and command register. The RS (register select) is mainly used to change from one register to another. When the register set is ‘0’, then it is known as command register. Similarly, when the register set is ‘1’, then it is known as data register.
 # Flowchart
 ![Flowchart_Fan drawio (1)](https://user-images.githubusercontent.com/46956641/155835305-f2a41af7-180e-4d82-ae6d-13c826250ff6.png)
