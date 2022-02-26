@@ -5,7 +5,7 @@
 * It shall increase or decrease the fan speed based on the change in temperature.
 * It shall turn off and on the fan with a buzzer.
 # Abstract
-* Auto adjusting of fan speed is like a home automation where we don't need to change the fan speed everytime manually.It can be done using this embedded system which reads the room temperature data from the temperature sensor and auto adjusts the fan speed according to the room temperature which is done using the motor.This system will be veryful in reducing the usage of electricty because its turn off the fan automatically based of the temperature we set with a buzzer to notify.
+* Auto adjusting of fan speed is like a home automation where we don't need to change the fan speed everytime manually.It can be done using this embedded system which reads the room temperature data from the temperature sensor and auto adjusts the fan speed according to the room temperature which is done using the motor.This system will be veryful in reducing the usage of electricty because its turn off the fan automatically based of the temperature we set with a buzzer to notify.So basically when the temperature is more the fan speed will increase and will display the same on the LCD display and when temperature is low the fan speed will decrease while displaying it on the LCD display .If the temperature is same as we have set to stop then it will automatically turn off with a buzzer. 
 # Requirements
 ## High level requirements
 | Id | Description | Category | 
