@@ -19,6 +19,8 @@
 ## Temperature Sensor
 * A temperature sensor is a device used to measure temperature.
 * The Temperature Sensor LM35 series are precision integrated-circuit temperature devices with an output voltage linearly proportional to the Centigrade temperature.
+## Hall effect sensor
+* Hall Effect Sensor (A3144) to Measure Rotations from a Fan.A tachometer is a useful tool for calculating the rotational motion of a part. Tachometers read out revolutions per minute (RPM), which tells the user how often a rotating part completes one full rotation
 
 # Flowchart
 ![Flowchart_Fan drawio (1)](https://user-images.githubusercontent.com/46956641/155835305-f2a41af7-180e-4d82-ae6d-13c826250ff6.png)
