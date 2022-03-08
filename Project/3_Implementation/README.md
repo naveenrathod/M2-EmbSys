@@ -1,2 +1,2 @@
 # Implementing the project
-* All the required are uploded here
+* All the required files are uploded here
