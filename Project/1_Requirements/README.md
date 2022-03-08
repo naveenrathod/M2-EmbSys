@@ -1,7 +1,8 @@
 # Description 
-* The main purpose is to adjust the fan speed based on the room temperature and display the information of adjusting fan speed with it's rpm and also about the room temperature.It also has a buzzer which will buzz everytime the fan is turned off or on.This will be very helpful in reducing the usage of electricity.
+* The main purpose of the project is to adjust the fan speed based on the room temperature and display the information of adjusting fan speed and also about the room temperature.It also has a buzzer which will buzz everytime there is change in temperature.This will be very helpful in reducing the usage of electricity.Here if the temperature is more than the specified temperature then the fan speed will increase and in case of low temperature the fan speed will decrease.
 # Identifying features
-* It shall show how much is the room temperature at present and also the fan speed.
+* It shall obtain the temperature and fan speed.
+* It shall display how much is the room temperature and also the fan speed.
 * It shall increase or decrease the fan speed based on the change in temperature.
 * It shall turn off and on the fan with a buzzer.
 # Abstract
