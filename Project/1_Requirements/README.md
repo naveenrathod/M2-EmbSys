@@ -18,6 +18,6 @@
 | Id | Description | Category |
 |----|-------------|---------|
 |LL1|Obtaining the data from the sensor and actuator |Technical|
-|LL2|Check if the temperature is greater or lesser than the maximum and minimum temperature specified|Technical|
+|LL2|Check if the temperature is greater or less than the maximum and minimum temperature specified|Technical|
 |LL3|Motor is given input to change the speed of the fan|Technical|
 |LL4|Motor is given input to turn off the fan with a buzzer|Technical|
