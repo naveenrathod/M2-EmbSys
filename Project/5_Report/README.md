@@ -6,6 +6,7 @@
 * 2. Requirements
     * High level requirements
     * Low level requirements
+    * SWOT Analysis
 * 3. Architecture
     * Components used
     * Block Diagram
@@ -43,6 +44,8 @@
 |LL2|Check if the temperature is greater or less than the maximum and minimum temperature specified|Technical|
 |LL3|Motor is given input to change the speed of the fan|Technical|
 |LL4|Motor is given input to turn off the fan with a buzzer|Technical|
+## SWOT Analysis
+![SWOT](https://user-images.githubusercontent.com/46956641/157344346-b3972607-4255-4418-ba16-4b4408a9273b.png)
 ##  3. Architecture
 ## Components Used
 * Power supply
