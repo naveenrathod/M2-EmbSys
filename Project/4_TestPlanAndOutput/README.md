@@ -11,6 +11,6 @@
 |Test ID |Description |Expected input |Expected output |Actual output |Status|
 |---------|-----------------|---------| --------|--------|-------|
 |LL_01 |Comparing the obtained temperature with the maximum and minimum temperature |Program execution |Input to the motor |Input to the motor|:heavy_check_mark:|
-|LL_02|Check if the temperature is greater then maximum temperature|Program execution |Increase the fan speed |Change in fan speed|:heavy_check_mark:|
-|LL_03|Check if the temperature is less then minimum temperature|Program execution |Decrease the fan speed |Change in fan speed|:heavy_check_mark:|
+|LL_02|Check if the temperature is greater than the maximum temperature|Program execution |Increase the fan speed |Change in fan speed|:heavy_check_mark:|
+|LL_03|Check if the temperature is less than the minimum temperature|Program execution |Decrease the fan speed |Change in fan speed|:heavy_check_mark:|
 |LL_04 |After a change in fan speed buzzer is set|Program execution |Buzzer in on|Buzzer in on|:heavy_check_mark:|
