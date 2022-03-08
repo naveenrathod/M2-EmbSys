@@ -20,4 +20,3 @@
 |LL1|Obtaining the data from the sensor and actuator |Technical|
 |LL2|Motor is given input to change the speed of the fan|Technical|
 |LL3|Motor is given input to turn off the fan with a buzzer|Technical|
-
