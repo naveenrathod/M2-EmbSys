@@ -85,3 +85,7 @@
 |LL_02|Check if the temperature is greater than the maximum temperature|Program execution |Increase the fan speed |Change in fan speed|:heavy_check_mark:|
 |LL_03|Check if the temperature is less than the minimum temperature|Program execution |Decrease the fan speed |Change in fan speed|:heavy_check_mark:|
 |LL_04 |After a change in fan speed buzzer is set|Program execution |Buzzer in on|Buzzer in on|:heavy_check_mark:|
+## Output
+![Code_Output](https://user-images.githubusercontent.com/46956641/157339708-b515d747-cd1f-4ff0-925a-2a74db6ccd9e.png)
+![Simulation_1](https://user-images.githubusercontent.com/46956641/157339719-f4c68b5e-5791-4a77-8ff8-dce62d6ab63a.png)
+![Simulation_2](https://user-images.githubusercontent.com/46956641/157339721-b81625ee-787f-45cf-bf51-80e44e82e679.png)
